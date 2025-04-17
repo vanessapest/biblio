@@ -14,5 +14,5 @@ server.get('/', (req, res) => {
 });  
 
 server.listen(port, function() {
-    console.log(`Server läuft unter http://localhost:{port}/`);
+    console.log("Express listening on http://localhost:" + port);
 });
