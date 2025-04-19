@@ -1,0 +1,186 @@
+2025/04/19 14:00:41 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:00:42 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:00:42 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:00:42 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:00:43 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:00:45 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:00:48 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:00:55 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:01:08 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:01:34 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:37 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:38 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:38 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:38 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:39 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:41 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:44 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:09:51 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:10:04 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:10:30 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:11:21 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:12:21 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:13:21 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:14:21 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:15:21 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:16:22 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2025/04/19 14:17:50 [notice] 1#1: using the "epoll" event method
+2025/04/19 14:17:50 [notice] 1#1: nginx/1.27.5
+2025/04/19 14:17:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/04/19 14:17:50 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/04/19 14:17:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/19 14:17:50 [notice] 1#1: start worker processes
+2025/04/19 14:17:50 [notice] 1#1: start worker process 31
+2025/04/19 14:17:50 [notice] 1#1: start worker process 32
+2025/04/19 14:17:50 [notice] 1#1: start worker process 33
+2025/04/19 14:17:50 [notice] 1#1: start worker process 34
+2025/04/19 14:17:50 [notice] 1#1: start worker process 35
+2025/04/19 14:17:50 [notice] 1#1: start worker process 36
+2025/04/19 14:17:50 [notice] 1#1: start worker process 37
+2025/04/19 14:17:50 [notice] 1#1: start worker process 38
+2025/04/19 14:19:25 [error] 31#31: *1 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.65.1, server: , request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3002/", host: "localhost"
+2025/04/19 14:19:28 [error] 32#32: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.65.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3002/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/04/19 14:21:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/19 14:21:32 [notice] 31#31: gracefully shutting down
+2025/04/19 14:21:32 [notice] 37#37: gracefully shutting down
+2025/04/19 14:21:32 [notice] 36#36: gracefully shutting down
+2025/04/19 14:21:32 [notice] 34#34: gracefully shutting down
+2025/04/19 14:21:32 [notice] 36#36: exiting
+2025/04/19 14:21:32 [notice] 32#32: gracefully shutting down
+2025/04/19 14:21:32 [notice] 36#36: exit
+2025/04/19 14:21:32 [notice] 35#35: gracefully shutting down
+2025/04/19 14:21:32 [notice] 33#33: gracefully shutting down
+2025/04/19 14:21:32 [notice] 38#38: gracefully shutting down
+2025/04/19 14:21:32 [notice] 33#33: exiting
+2025/04/19 14:21:32 [notice] 31#31: exiting
+2025/04/19 14:21:32 [notice] 37#37: exiting
+2025/04/19 14:21:32 [notice] 34#34: exiting
+2025/04/19 14:21:32 [notice] 32#32: exiting
+2025/04/19 14:21:32 [notice] 35#35: exiting
+2025/04/19 14:21:32 [notice] 38#38: exiting
+2025/04/19 14:21:32 [notice] 35#35: exit
+2025/04/19 14:21:32 [notice] 33#33: exit
+2025/04/19 14:21:32 [notice] 31#31: exit
+2025/04/19 14:21:32 [notice] 37#37: exit
+2025/04/19 14:21:32 [notice] 34#34: exit
+2025/04/19 14:21:32 [notice] 32#32: exit
+2025/04/19 14:21:32 [notice] 38#38: exit
+2025/04/19 14:21:32 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/04/19 14:21:32 [notice] 1#1: worker process 31 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: worker process 33 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: worker process 34 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: worker process 35 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: worker process 36 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: worker process 37 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: worker process 38 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: signal 29 (SIGIO) received
+2025/04/19 14:21:32 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2025/04/19 14:21:32 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/04/19 14:21:32 [notice] 1#1: worker process 32 exited with code 0
+2025/04/19 14:21:32 [notice] 1#1: exit
+2025/04/19 14:23:42 [notice] 1#1: using the "epoll" event method
+2025/04/19 14:23:42 [notice] 1#1: nginx/1.27.5
+2025/04/19 14:23:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/04/19 14:23:42 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/04/19 14:23:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/19 14:23:42 [notice] 1#1: start worker processes
+2025/04/19 14:23:42 [notice] 1#1: start worker process 30
+2025/04/19 14:23:42 [notice] 1#1: start worker process 31
+2025/04/19 14:23:42 [notice] 1#1: start worker process 32
+2025/04/19 14:23:42 [notice] 1#1: start worker process 33
+2025/04/19 14:23:42 [notice] 1#1: start worker process 34
+2025/04/19 14:23:42 [notice] 1#1: start worker process 35
+2025/04/19 14:23:42 [notice] 1#1: start worker process 36
+2025/04/19 14:23:42 [notice] 1#1: start worker process 37
+2025/04/19 14:23:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/19 14:23:56 [notice] 30#30: gracefully shutting down
+2025/04/19 14:23:56 [notice] 30#30: exiting
+2025/04/19 14:23:56 [notice] 31#31: gracefully shutting down
+2025/04/19 14:23:56 [notice] 31#31: exiting
+2025/04/19 14:23:56 [notice] 37#37: gracefully shutting down
+2025/04/19 14:23:56 [notice] 37#37: exiting
+2025/04/19 14:23:56 [notice] 35#35: gracefully shutting down
+2025/04/19 14:23:56 [notice] 33#33: gracefully shutting down
+2025/04/19 14:23:56 [notice] 32#32: gracefully shutting down
+2025/04/19 14:23:56 [notice] 34#34: gracefully shutting down
+2025/04/19 14:23:56 [notice] 34#34: exiting
+2025/04/19 14:23:56 [notice] 36#36: gracefully shutting down
+2025/04/19 14:23:56 [notice] 30#30: exit
+2025/04/19 14:23:56 [notice] 31#31: exit
+2025/04/19 14:23:56 [notice] 37#37: exit
+2025/04/19 14:23:56 [notice] 35#35: exiting
+2025/04/19 14:23:56 [notice] 33#33: exiting
+2025/04/19 14:23:56 [notice] 32#32: exiting
+2025/04/19 14:23:56 [notice] 34#34: exit
+2025/04/19 14:23:56 [notice] 36#36: exiting
+2025/04/19 14:23:56 [notice] 35#35: exit
+2025/04/19 14:23:56 [notice] 33#33: exit
+2025/04/19 14:23:56 [notice] 32#32: exit
+2025/04/19 14:23:56 [notice] 36#36: exit
+2025/04/19 14:23:56 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/04/19 14:23:56 [notice] 1#1: worker process 31 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: worker process 32 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: worker process 33 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: worker process 35 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: worker process 36 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/04/19 14:23:56 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2025/04/19 14:23:56 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/04/19 14:23:56 [notice] 1#1: worker process 30 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: worker process 34 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/04/19 14:23:56 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/04/19 14:23:56 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2025/04/19 14:23:56 [notice] 1#1: worker process 37 exited with code 0
+2025/04/19 14:23:56 [notice] 1#1: exit
+2025/04/19 14:24:22 [notice] 1#1: using the "epoll" event method
+2025/04/19 14:24:22 [notice] 1#1: nginx/1.27.5
+2025/04/19 14:24:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/04/19 14:24:22 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/04/19 14:24:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/19 14:24:22 [notice] 1#1: start worker processes
+2025/04/19 14:24:22 [notice] 1#1: start worker process 31
+2025/04/19 14:24:22 [notice] 1#1: start worker process 32
+2025/04/19 14:24:22 [notice] 1#1: start worker process 33
+2025/04/19 14:24:22 [notice] 1#1: start worker process 34
+2025/04/19 14:24:22 [notice] 1#1: start worker process 35
+2025/04/19 14:24:22 [notice] 1#1: start worker process 36
+2025/04/19 14:24:22 [notice] 1#1: start worker process 37
+2025/04/19 14:24:22 [notice] 1#1: start worker process 38
+2025/04/19 14:28:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/19 14:28:38 [notice] 32#32: gracefully shutting down
+2025/04/19 14:28:38 [notice] 31#31: gracefully shutting down
+2025/04/19 14:28:38 [notice] 36#36: gracefully shutting down
+2025/04/19 14:28:38 [notice] 37#37: gracefully shutting down
+2025/04/19 14:28:38 [notice] 35#35: gracefully shutting down
+2025/04/19 14:28:38 [notice] 33#33: gracefully shutting down
+2025/04/19 14:28:38 [notice] 34#34: gracefully shutting down
+2025/04/19 14:28:38 [notice] 38#38: gracefully shutting down
+2025/04/19 14:28:38 [notice] 32#32: exiting
+2025/04/19 14:28:38 [notice] 32#32: exit
+2025/04/19 14:28:38 [notice] 31#31: exiting
+2025/04/19 14:28:38 [notice] 36#36: exiting
+2025/04/19 14:28:38 [notice] 37#37: exiting
+2025/04/19 14:28:38 [notice] 35#35: exiting
+2025/04/19 14:28:38 [notice] 33#33: exiting
+2025/04/19 14:28:38 [notice] 35#35: exit
+2025/04/19 14:28:38 [notice] 34#34: exiting
+2025/04/19 14:28:38 [notice] 38#38: exiting
+2025/04/19 14:28:38 [notice] 34#34: exit
+2025/04/19 14:28:38 [notice] 31#31: exit
+2025/04/19 14:28:38 [notice] 36#36: exit
+2025/04/19 14:28:38 [notice] 37#37: exit
+2025/04/19 14:28:38 [notice] 33#33: exit
+2025/04/19 14:28:38 [notice] 38#38: exit
+2025/04/19 14:28:38 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/04/19 14:28:38 [notice] 1#1: worker process 33 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: signal 29 (SIGIO) received
+2025/04/19 14:28:38 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/04/19 14:28:38 [notice] 1#1: worker process 31 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: worker process 32 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: worker process 34 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: worker process 35 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: worker process 36 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: worker process 37 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: worker process 38 exited with code 0
+2025/04/19 14:28:38 [notice] 1#1: exit
