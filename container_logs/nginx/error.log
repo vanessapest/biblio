@@ -247,3 +247,41 @@
 2025/04/21 12:17:07 [notice] 1#1: start worker process 43
 2025/04/21 12:17:07 [notice] 1#1: start worker process 44
 2025/04/21 12:17:07 [notice] 1#1: start worker process 45
+2025/04/21 12:29:08 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/21 12:29:08 [notice] 38#38: gracefully shutting down
+2025/04/21 12:29:08 [notice] 40#40: gracefully shutting down
+2025/04/21 12:29:08 [notice] 42#42: gracefully shutting down
+2025/04/21 12:29:08 [notice] 41#41: gracefully shutting down
+2025/04/21 12:29:08 [notice] 39#39: gracefully shutting down
+2025/04/21 12:29:08 [notice] 44#44: gracefully shutting down
+2025/04/21 12:29:08 [notice] 43#43: gracefully shutting down
+2025/04/21 12:29:08 [notice] 44#44: exiting
+2025/04/21 12:29:08 [notice] 45#45: gracefully shutting down
+2025/04/21 12:29:08 [notice] 38#38: exiting
+2025/04/21 12:29:08 [notice] 40#40: exiting
+2025/04/21 12:29:08 [notice] 42#42: exiting
+2025/04/21 12:29:08 [notice] 41#41: exiting
+2025/04/21 12:29:08 [notice] 39#39: exiting
+2025/04/21 12:29:08 [notice] 43#43: exiting
+2025/04/21 12:29:08 [notice] 45#45: exiting
+2025/04/21 12:29:08 [notice] 40#40: exit
+2025/04/21 12:29:08 [notice] 41#41: exit
+2025/04/21 12:29:08 [notice] 38#38: exit
+2025/04/21 12:29:08 [notice] 42#42: exit
+2025/04/21 12:29:08 [notice] 44#44: exit
+2025/04/21 12:29:08 [notice] 39#39: exit
+2025/04/21 12:29:08 [notice] 43#43: exit
+2025/04/21 12:29:08 [notice] 45#45: exit
+2025/04/21 12:29:08 [notice] 1#1: signal 17 (SIGCHLD) received from 40
+2025/04/21 12:29:08 [notice] 1#1: worker process 38 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: worker process 39 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: worker process 40 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: worker process 42 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: worker process 43 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: worker process 45 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: signal 29 (SIGIO) received
+2025/04/21 12:29:08 [notice] 1#1: signal 17 (SIGCHLD) received from 42
+2025/04/21 12:29:08 [notice] 1#1: signal 17 (SIGCHLD) received from 44
+2025/04/21 12:29:08 [notice] 1#1: worker process 41 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: worker process 44 exited with code 0
+2025/04/21 12:29:08 [notice] 1#1: exit
