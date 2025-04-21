@@ -233,3 +233,17 @@
 2025/04/20 21:05:00 [notice] 1#1: worker process 37 exited with code 0
 2025/04/20 21:05:00 [notice] 1#1: worker process 38 exited with code 0
 2025/04/20 21:05:00 [notice] 1#1: exit
+2025/04/21 12:17:07 [notice] 1#1: using the "epoll" event method
+2025/04/21 12:17:07 [notice] 1#1: nginx/1.27.5
+2025/04/21 12:17:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/04/21 12:17:07 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/04/21 12:17:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/21 12:17:07 [notice] 1#1: start worker processes
+2025/04/21 12:17:07 [notice] 1#1: start worker process 38
+2025/04/21 12:17:07 [notice] 1#1: start worker process 39
+2025/04/21 12:17:07 [notice] 1#1: start worker process 40
+2025/04/21 12:17:07 [notice] 1#1: start worker process 41
+2025/04/21 12:17:07 [notice] 1#1: start worker process 42
+2025/04/21 12:17:07 [notice] 1#1: start worker process 43
+2025/04/21 12:17:07 [notice] 1#1: start worker process 44
+2025/04/21 12:17:07 [notice] 1#1: start worker process 45
