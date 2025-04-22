@@ -3,12 +3,12 @@ const server = express();
 const port = process.env.PORT || 3002;
 
 server.get("/hello", function (req, res) {
-    res.send("Hello Vanessa!");
+    res.send("Our virtual book club");
 });
 
 server.get('/', (req, res) => {
     res.send(`
-      <h1>Welcome to Vanessa's Homepage</h1>
+      <h1>Welcome to Biblio</h1>
       <p><a href="/hello">Go to /hello</a></p>
     `);
 });  
